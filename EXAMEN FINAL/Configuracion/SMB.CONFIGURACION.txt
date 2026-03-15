@@ -1,0 +1,17 @@
+<html>
+
+<head>
+<title>Servidor IA</title>
+</head>
+
+<body>
+
+<h1>Infraestructura Hibrida Windows Linux</h1>
+
+<p>Proyecto de Sistemas Operativos</p>
+
+<p>Servidor Web funcionando correctamente</p>
+
+</body>
+
+</html>
